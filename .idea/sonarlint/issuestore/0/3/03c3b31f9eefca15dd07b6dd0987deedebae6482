@@ -1,0 +1,11 @@
+
+>
+java:S1604,"(Make this anonymous inner class a lambda(³àª³
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã·›þÿÿÿÿÿ
+9
+java:S1659"$Declare "etpass" on a separate line.(Ä‰Ât
+n
+java:S1450"SRemove the "fila" field and declare it as a local variable in the relevant methods.(¡Í³äÿÿÿÿÿ
+A
+java:S11727"+Remove this unused method parameter "view".(½‹“¥
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(Ÿþ·8õü±õƒ0

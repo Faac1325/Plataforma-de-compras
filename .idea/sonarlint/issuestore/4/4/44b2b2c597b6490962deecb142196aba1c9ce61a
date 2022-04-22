@@ -1,0 +1,38 @@
+
+f
+java:S1192D"KDefine a constant instead of duplicating this literal "registros" 10 times.(ÄÌÙ©øÿÿÿÿ
+†
+java:S1192U"kDefine a constant instead of duplicating this literal "select id_user from userbd where id_user='" 9 times.(¹°½»ûÿÿÿÿ
+?
+java:S1604à"(Make this anonymous inner class a lambda(†¶‡ª
+D
+java:S1604é"(Make this anonymous inner class a lambda(è¨¾ùÿÿÿÿ
+>
+java:S1604Ù"(Make this anonymous inner class a lambda(ÁÒîd
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã·›şÿÿÿÿÿ
+6
+java:S1659" Declare "id" on a separate line.(–³İ›
+[
+java:S1659"EDeclare "saldoUsu" and all following declarations on a separate line.(Ã˜
+\
+java:S1659"FDeclare "btnetflix" and all following declarations on a separate line.(Ë³„Ü
+A
+java:S1172O"+Remove this unused method parameter "view".(ÃâÂŸ
+F
+java:S1172`"+Remove this unused method parameter "view".(ŞÍ†ùøÿÿÿÿ
+A
+java:S1172o"+Remove this unused method parameter "view".(º¹“í
+F
+java:S1172"+Remove this unused method parameter "view".(¨ûÉÿÿÿÿÿ
+B
+java:S1172"+Remove this unused method parameter "view".(¤šíÛ
+B
+java:S1172"+Remove this unused method parameter "view".(—ÄŸ…
+B
+java:S1172ª"+Remove this unused method parameter "view".(ï­À
+G
+java:S1172¹"+Remove this unused method parameter "view".(¡‚°øÿÿÿÿ
+G
+java:S1172Ê"+Remove this unused method parameter "view".(ãÉˆÔşÿÿÿÿ
+R	java:S125ã"<This block of commented-out lines of code should be removed.(©í²Ë
+R	java:S125û"<This block of commented-out lines of code should be removed.(Ÿş·

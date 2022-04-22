@@ -1,0 +1,21 @@
+
+E
+java:S5411K"*Use the primitive boolean expression here.(úåàÊşÿÿÿÿ
+?
+java:S5411O"*Use the primitive boolean expression here.(üæ’
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã·›şÿÿÿÿÿ
+a
+java:S1659"FDeclare "etreemail" and all following declarations on a separate line.(ñãˆùÿÿÿÿÿ
+A
+java:S1659"&Declare "btnatras" on a separate line.(–¶ßÊúÿÿÿÿ
+h
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(á¿ÄÃ
+A
+java:S1172*"+Remove this unused method parameter "view".(á¿ÄÃ
+B
+java:S1125S"'Remove the unnecessary boolean literal.(üÀ…Âùÿÿÿÿ
+?	java:S108°")Either remove or fill this block of code.(”ı¾
+B
+java:S1172´"+Remove this unused method parameter "view".(—¹Ö¥
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¤½Æçşÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(Ÿş·
