@@ -131,7 +131,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginEnd="50dp"
         android:background="@drawable/botones"
-        android:backgroundTint="#2864F9"
+        android:backgroundTint="#2844F9"
         android:onClick="registrar"
         android:text="registrar"
         app:layout_constraintBottom_toBottomOf="parent"
